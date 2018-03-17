@@ -1,0 +1,11 @@
+﻿body {
+	background-color: whitesmoke;
+	font-family: helvetica
+}
+		
+header {
+	color: white;
+	background-color: lightslategray;
+	padding: 1em;
+	margin: 5em;
+}
