@@ -1,2 +1,0 @@
-// Kendo UI listboxide jaoks
-
