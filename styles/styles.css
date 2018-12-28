@@ -61,9 +61,17 @@ li a {
     font-size: 22px;
     text-align: center;
 	padding: 14px 16px;
-	text-decoration: none;
+    text-decoration: none;
 }
 
 li a:hover {
-    background-color: #3b3b3b;
+    background-color: rgb(22, 22, 22);
+    animation-name: fade;
+    animation-duration: 200ms;
+    animation-fill-mode: both;
+}
+
+@keyframes fade {
+    from {background-color: rgb(22, 22, 22);}
+    to {background-color: #3b3b3b;}
 }
