@@ -1,6 +1,6 @@
 ## Leas public site
 
-##Development
+## Development
 
 - make sure to have hugo and necessary tools installed
 - run `hugo server` for development (`hugo server -D` for working with draft content)
