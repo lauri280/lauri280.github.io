@@ -2,3 +2,7 @@ baseURL = 'https://leas.ee/'
 languageCode = 'en-us'
 title = 'Leas'
 theme = 'blist'
+
+[[menu.main]]
+  name = "Blogi"
+  url = "/blog"
