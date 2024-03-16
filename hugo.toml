@@ -6,3 +6,7 @@ theme = 'blist'
 [[menu.main]]
   name = "Blogi"
   url = "/blog"
+
+[[menu.main]]
+  name = "Kuhu minna"
+  url = "/kuhuminna"
