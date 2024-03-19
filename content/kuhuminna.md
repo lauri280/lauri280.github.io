@@ -6,7 +6,8 @@ Kollektsioon linkidest, mis aitavad leida tegevust Eestis
 
 ### Üldised lingid
 [Puhka Eestis](https://www.puhkaeestis.ee/et)  
-[RMK võimaluste otsing](https://www.loodusegakoos.ee/kuhuminna)
+[RMK võimaluste otsing](https://www.loodusegakoos.ee/kuhuminna)  
+[Tartu 2024 sündmused](https://tartu2024.ee/programm/)
 
 ### Kaardid
 
