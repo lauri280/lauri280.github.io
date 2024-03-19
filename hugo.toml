@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Leas'
 theme = 'blist'
 
+[params]
+  darkModeToggle = true
+
 [[menu.main]]
   name = "Blogi"
   url = "/blog"
