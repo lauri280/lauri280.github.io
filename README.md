@@ -1,5 +1,7 @@
 ## Leas public site
 
+[leas.ee](leas.ee)
+
 ## Development
 
 - make sure to have hugo and necessary tools installed
